@@ -24,7 +24,8 @@ The dashboard explores app distribution, ratings, installs, and category-wise pe
 
 This page provides a high-level summary of the Google Play Store, highlighting key metrics and overall trends across all apps.
 
-![Page 1 Overview](Screenshots/page1_overview.gif)
+<img src="Screenshots/page1_overview.gif" width="750"/>
+
 
 ### 🔍 What this page shows:
 - Total number of apps available on the Play Store
@@ -37,8 +38,8 @@ This page provides a high-level summary of the Google Play Store, highlighting k
 
 This page dives deeper into app performance across different categories to understand which domains dominate the Play Store.
 
-![Page 2 Category Insights](Screenshots/page2_category.gif)
 
+<img src="Screenshots/page2_category.gif" width="800"/>
 
 ### 🔍 What this page shows:
 - App count by category
@@ -51,7 +52,8 @@ This page dives deeper into app performance across different categories to under
 
 This page focuses on understanding the relationship between user ratings and install counts.
 
-![Page 3 Ratings vs Installs](Screenshots/page3_ratings.gif)
+
+<img src="Screenshots/page3_ratings_installs.gif" width="800"/>
 
 ### 🔍 What this page shows:
 - Relationship between app ratings and install volumes
