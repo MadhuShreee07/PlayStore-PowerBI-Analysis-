@@ -37,7 +37,7 @@ This page provides a high-level summary of the Google Play Store, highlighting k
 
 This page dives deeper into app performance across different categories to understand which domains dominate the Play Store.
 
-![Page 2 Category Insights](Screenshots/page2_category_insights.gif)
+![Page 2 Category Insights](Screenshots/page2_category.gif)
 
 
 ### 🔍 What this page shows:
@@ -51,7 +51,7 @@ This page dives deeper into app performance across different categories to under
 
 This page focuses on understanding the relationship between user ratings and install counts.
 
-![Page 3 Ratings vs Installs](Screenshots/page3_ratings_installs.gif)
+![Page 3 Ratings vs Installs](Screenshots/page3_ratings.gif)
 
 ### 🔍 What this page shows:
 - Relationship between app ratings and install volumes
