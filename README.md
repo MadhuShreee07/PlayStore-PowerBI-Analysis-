@@ -20,6 +20,44 @@ The dashboard explores app distribution, ratings, installs, and category-wise pe
 - Identify high-performing app categories based on user engagement
 
 ---
+## 📄 Page 1: Executive Overview
+
+This page provides a high-level summary of the Google Play Store, highlighting key metrics and overall trends across all apps.
+
+![Page 1 Overview](Screenshots/page1_overview.gif)
+
+### 🔍 What this page shows:
+- Total number of apps available on the Play Store
+- Average app rating across all categories
+- Median number of installs
+- Percentage of free vs paid apps
+- Overall install distribution to understand market scale
+
+## 📄 Page 2: Category Insights
+
+This page dives deeper into app performance across different categories to understand which domains dominate the Play Store.
+
+![Page 2 Category Insights](Screenshots/page2_category_insights.gif)
+
+### 🔍 What this page shows:
+- App count by category
+- Average rating per category
+- Comparison of free and paid apps across categories
+- Identification of high-performing and saturated categories
+
+
+## 📄 Page 3: Ratings & Installs Analysis
+
+This page focuses on understanding the relationship between user ratings and install counts.
+
+![Page 3 Ratings vs Installs](Screenshots/page3_ratings_installs.gif)
+
+### 🔍 What this page shows:
+- Relationship between app ratings and install volumes
+- Top categories based on total installs
+- Insights into user preferences and engagement behavior
+
+
 ## 🛠️ Skills Showcased
 
 This project was a hands-on journey through core **Power BI and data analytics concepts**.  
