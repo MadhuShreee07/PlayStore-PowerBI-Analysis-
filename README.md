@@ -39,6 +39,7 @@ This page dives deeper into app performance across different categories to under
 
 ![Page 2 Category Insights](Screenshots/page2_category_insights.gif)
 
+
 ### 🔍 What this page shows:
 - App count by category
 - Average rating per category
