@@ -4,9 +4,8 @@
 This project presents an interactive **Power BI dashboard** built to analyze the Google Play Store ecosystem.  
 The dashboard explores app distribution, ratings, installs, and category-wise performance to understand what drives app popularity and user engagement.
 
-📂 **Dashboard File:**   
+📂 **Dashboard File:**  
 [google_playstore_analysis.pbix](google_playstore_analysis.pbix)
-
 
 📂 **Dataset Used:**  
 [Google-playstore-dataset.csv](Google-playstore-dataset.csv)
@@ -14,55 +13,60 @@ The dashboard explores app distribution, ratings, installs, and category-wise pe
 ---
 
 ## 🎯 Project Objectives
-- Analyze the distribution of apps across different categories
-- Understand rating patterns and install trends
-- Compare free vs paid apps
-- Identify high-performing app categories based on user engagement
+- Analyze the distribution of apps across different categories  
+- Understand rating patterns and install trends  
+- Compare free vs paid apps  
+- Identify high-performing app categories based on user engagement  
 
 ---
-## 📄 Page 1: Executive Overview
 
+## ▶️ How to Use This Dashboard
+1. Download the `.pbix` file from the repository  
+2. Open it using **Power BI Desktop**  
+3. Use slicers and filters to explore app categories, ratings, and install performance interactively  
+
+---
+
+## 📄 Page 1: Executive Overview
 This page provides a high-level summary of the Google Play Store, highlighting key metrics and overall trends across all apps.
 
 <img src="Screenshots/page1_overview.gif" width="750"/>
 
-
 ### 🔍 What this page shows:
-- Total number of apps available on the Play Store
-- Average app rating across all categories
-- Median number of installs
-- Percentage of free vs paid apps
-- Overall install distribution to understand market scale
+- Total number of apps available on the Play Store  
+- Average app rating across all categories  
+- Median number of installs  
+- Percentage of free vs paid apps  
+- Overall install distribution to understand market scale  
+
+---
 
 ## 📄 Page 2: Category Insights
-
 This page dives deeper into app performance across different categories to understand which domains dominate the Play Store.
-
 
 <img src="Screenshots/page2_category.gif" width="800"/>
 
 ### 🔍 What this page shows:
-- App count by category
-- Average rating per category
-- Comparison of free and paid apps across categories
-- Identification of high-performing and saturated categories
+- App count by category  
+- Average rating per category  
+- Comparison of free and paid apps across categories  
+- Identification of high-performing and saturated categories  
 
+---
 
 ## 📄 Page 3: Ratings & Installs Analysis
-
 This page focuses on understanding the relationship between user ratings and install counts.
-
 
 <img src="Screenshots/page3_ratings.gif" width="800"/>
 
 ### 🔍 What this page shows:
-- Relationship between app ratings and install volumes
-- Top categories based on total installs
-- Insights into user preferences and engagement behavior
+- Relationship between app ratings and install volumes  
+- Top categories based on total installs  
+- Insights into user preferences and engagement behavior  
 
+---
 
 ## 🛠️ Skills Showcased
-
 This project was a hands-on journey through core **Power BI and data analytics concepts**.  
 Here’s what was implemented and demonstrated:
 
@@ -84,12 +88,14 @@ Here’s what was implemented and demonstrated:
 - Used Tables for detailed, category-level insights  
 
 🖱️ **Interactive Reporting**  
-- Slicers to filter data dynamically by category and app type  
-- Cross-filtering between visuals for better exploration  
+- Implemented slicers for dynamic filtering by category and app type  
+- Enabled cross-filtering between visuals for deeper exploration  
 
 🎨 **Dashboard Design & Layout**  
 - Designed a clean, intuitive, and easy-to-navigate dashboard  
 - Focused on clarity, consistency, and storytelling through visuals  
+
+---
 
 ## 🚀 Key Insights
 - Most apps on the Play Store are free, but paid apps often show slightly higher average ratings  
@@ -100,4 +106,3 @@ Here’s what was implemented and demonstrated:
 
 ## 👩‍💻 Created By
 **Madhu Shree**
-
