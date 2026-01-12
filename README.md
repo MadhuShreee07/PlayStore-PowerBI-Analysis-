@@ -53,7 +53,7 @@ This page dives deeper into app performance across different categories to under
 This page focuses on understanding the relationship between user ratings and install counts.
 
 
-<img src="Screenshots/page3_ratings_installs.gif" width="800"/>
+<img src="Screenshots/page3_ratings.gif" width="800"/>
 
 ### 🔍 What this page shows:
 - Relationship between app ratings and install volumes
