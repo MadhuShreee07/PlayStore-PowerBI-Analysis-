@@ -4,11 +4,13 @@
 This project presents an interactive **Power BI dashboard** built to analyze the Google Play Store ecosystem.  
 The dashboard explores app distribution, ratings, installs, and category-wise performance to understand what drives app popularity and user engagement.
 
-📂 **Dashboard File:**  
-`google_playstore_analysis.pbix`
+📂 **Dashboard File:**   
+[google_playstore_analysis.pbix](google_playstore_analysis.pbix)
+
 
 📂 **Dataset Used:**  
-`Google-playstore-dataset.csv`
+[Google-playstore-dataset.csv](Google-playstore-dataset.csv)
+
 ---
 
 ## 🎯 Project Objectives
